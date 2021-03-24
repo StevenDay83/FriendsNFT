@@ -1,2 +1,2 @@
 # FriendsNFT
-FriendsNFT ERC721 Contract COde
+FriendsNFT ERC721 Contract Code
